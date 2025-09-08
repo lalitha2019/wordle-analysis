@@ -21,6 +21,8 @@ Goals for improvement: Improvement goals: Remove known limitations
 
 Goals for Enhancement: 
 - Add a feature to show occurrence of a letter for all days as well as for select number of days.
+- Implement custom date range
+  
 
 Time taken: 3 days
 (I wrote this around 2022 December, when I was trying to learn new skills while searching for a job)

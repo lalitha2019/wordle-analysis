@@ -26,8 +26,8 @@ Time taken: 3 days
 (I wrote this around 2022 December, when I was trying to learn new skills while searching for a job)
 
 Files:
-. wordle-data - text file - has the collection of wordle words used in this project. 
-. wordle_analysis.py - python code
-. Default-Visualization.jpg - screenshot of default visualization that pops up when the code is run
-. Letter-E-day14-to-day18.jpg - screenshot of viualization when user selects letter 'e'
-. Letter-E-first-5-days.jpg - screenshot of visualization when user selects letter 'e' and slides to day number '13'
+- wordle-data - text file - has the collection of wordle words used in this project. 
+- wordle_analysis.py - python code
+- Default-Visualization.jpg - screenshot of default visualization that pops up when the code is run
+- Letter-E-day14-to-day18.jpg - screenshot of viualization when user selects letter 'e'
+- Letter-E-first-5-days.jpg - screenshot of visualization when user selects letter 'e' and slides to day number '13'

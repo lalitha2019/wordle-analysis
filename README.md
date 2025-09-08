@@ -27,5 +27,8 @@ Time taken: 3 days
 
 Files:
 wordle-data - text file - has the collection of wordle words used in this project. 
-wordle_analysis-6.py - python code - includes notes about what I am learning along the way.
-wordle_graph.png - screenshots of some example visualizations
+wordle_analysis.py - python code - includes notes about what I am learning along the way.
+Default-Visualization.jpg - screenshot of default visualization that pops up when the code is run
+
+Letter-E-day14-to-day18
+Letter-E-first-5-days

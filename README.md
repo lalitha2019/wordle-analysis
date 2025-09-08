@@ -29,6 +29,5 @@ Files:
 wordle-data - text file - has the collection of wordle words used in this project. 
 wordle_analysis.py - python code - includes notes about what I am learning along the way.
 Default-Visualization.jpg - screenshot of default visualization that pops up when the code is run
-
-Letter-E-day14-to-day18
-Letter-E-first-5-days
+Letter-E-day14-to-day18.jpg - screenshot of viualization when user selects letter 'e'
+Letter-E-first-5-days.jpg - screenshot of visualization when user selects letter 'e' and slides to day number '13'
